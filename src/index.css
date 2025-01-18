@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.roots{
+  @apply grid grid-cols-2 h-screen;
+
+}
+
+#root1, #root2 {
+  @apply col-span-1 border border-slate-200 p-2;
+}
