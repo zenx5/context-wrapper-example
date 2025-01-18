@@ -30,7 +30,7 @@ export default function CodeExample() {
             <span className="pl-4 text-red-400">{'<'}small </span>
             <span className="pl-1 text-red-700">className</span>
             <span className="text-red-400">="text-lg first-letter:uppercase"{'>'}</span>
-            <span className="text-blue-300">{'{'}avatarUrl{'}'}</span>
+            <span className="text-blue-300">{'{'}username{'}'}</span>
             <span className="text-red-400">{'</'}small{'>'}</span>
         </span>
         <span>
